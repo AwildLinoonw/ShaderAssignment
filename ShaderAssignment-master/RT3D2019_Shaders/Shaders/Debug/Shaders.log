@@ -1,0 +1,5 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+C:\Users\b6032792\Downloads\ShaderAssignment-master\RT3D2019_Shaders\Shaders\Resources\ExampleShader.hlsl(105,19-57): warning X3206: 'dot': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\b6032792\Downloads\ShaderAssignment-master\RT3D2019_Shaders\Debug\ExampleShader.cso
+  Shaders.vcxproj -> C:\Users\b6032792\Downloads\ShaderAssignment-master\RT3D2019_Shaders\Debug\Shaders.exe
